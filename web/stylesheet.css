@@ -1,2 +1,12 @@
 /* 	DotStarMoney.com stylesheet 
 	Author: DC */
+
+#headerDiv{
+    border: 3px solid;
+    border-color: #000000;
+}
+
+li {
+    display: inline;
+    list-style-type: none;
+}
