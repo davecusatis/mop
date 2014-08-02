@@ -10,3 +10,19 @@ li {
     display: inline;
     list-style-type: none;
 }
+
+#nomeroLogo {
+    width: 100%;
+    position: static;
+}
+
+#mopLogo {
+    width: 100%;
+    position: static;
+}
+
+#DSMLogo {
+    width: 100%;
+    position: static;
+}
+
